@@ -106,6 +106,8 @@ body .container .buttons-field button {
   font-size: 2rem;
   gap: 15px;
   transition: 0.2s ease-in;
+  cursor: pointer;
+  box-shadow: 2px 8px 8px orange;
 }
 body .container .buttons-field button img {
   filter: brightness(9);
